@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fab365</string>
+    <string name="string_common_permission">이 기능을 사용하기 위해서는 권한 허용이 필요합니다.</string>
+    <string name="string_common_notification_alert">"설정 > 어플리케이션 > Fab365 > 권한" 에서 알림 접근 권한을 수락해 주세요.</string>
+    <string name="string_common_camera_alert">"설정 > 어플리케이션 > Fab365 > 권한" 에서 카메라 접근 권한을 수락해 주세요.</string>
+    <string name="string_common_media_alert">"설정 > 어플리케이션 > Fab365 > 권한" 에서 미디어 접근 권한을 수락해 주세요.</string>
+</resources>
